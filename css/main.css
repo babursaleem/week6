@@ -1,0 +1,15 @@
+body {
+  background-color: grey;
+}
+
+
+.boss h1 {
+  font-family: sans-serif, arial;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+.boss h1.new-text {
+  font-family: monospace;
+  font-size: 25px;
+}
